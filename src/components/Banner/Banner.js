@@ -10,7 +10,7 @@ const Banner = () => {
           <MenuBar></MenuBar>
           <div className="col-md-6">
             <h1 className="title">
-              BE THE BASKETBALL <br /> STAR AND SHINE
+              BE THE BASKETBALL <br /> STAR AND SHINE IN YOUR LIFE
             </h1>
             <p className="text-white text-center mt-3">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
